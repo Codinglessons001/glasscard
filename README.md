@@ -1,4 +1,4 @@
 # glasscard
 craeted by Coding lesson
 follow on insta @frontenddevlessons
-do check the previous post on the pase
+do check all the post on the page
